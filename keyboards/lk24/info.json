@@ -1,11 +1,11 @@
 {
     "manufacturer": "Tim",
-    "keyboard_name": "lk24",
+    "keyboard_name": "DEBROGLIE_LK24",
     "maintainer": "breexly",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x3234",
-        "vid": "0x5452"
+        "vid": "0x4445"
     },
 
     "processor": "atmega32u4",
